@@ -154,7 +154,7 @@ const Portfolio = () => {
 
             <motion.a
               {...hoverLift}
-              href="/resume.pdf"
+              href="https://drive.google.com/file/d/1qgZFsa6oozgF81ccq8qT2XuaVglbMYcT/view?usp=drive_link"
               className="px-8 py-3 border border-slate-700 rounded-lg font-semibold hover:bg-slate-800"
             >
               Resume
